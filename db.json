@@ -2,7 +2,7 @@
   "posts": [
   {"id": 1,"status": 1},
   {"id": 2,"status": 0},
-  {"id": 3,"status": 1}
+  {"id": 3,"status": }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
